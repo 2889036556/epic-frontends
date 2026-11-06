@@ -1,0 +1,26 @@
+{
+  "name": "@nova-ui/core",
+  "version": "0.1.0",
+  "description": "Production-ready, highly aesthetic AI-native interface components (Streaming, RAG Citations, Multi-Agent Swarms, 3D Spatial Topology, Human-in-the-Loop)",
+  "main": "./src/index.ts",
+  "module": "./src/index.ts",
+  "types": "./src/index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0",
+    "three": ">=0.160.0"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "llm",
+    "streaming",
+    "rag",
+    "threejs",
+    "human-in-the-loop",
+    "react"
+  ],
+  "author": "NOVA Team",
+  "license": "MIT"
+}

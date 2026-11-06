@@ -14,7 +14,8 @@
     "jsx": "react-jsx",
     "incremental": true,
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@nova-ui/core": ["./packages/nova-ui/src/index.ts"]
     }
   },
   "include": [
